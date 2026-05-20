@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <img src="https://graph.org/file/c0d9f5726166b3b2e2c75-55dad3bca249d75d53.jpg" width="160" height="160" alt="Roxy Rename Bot Logo" style="border-radius: 22%">
+  <img src="https://i.ibb.co/G3kFSnC6/x.jpg" width="160" height="160" alt="Roxy Rename Bot Logo" style="border-radius: 22%">
 
   <h1>𝗥𝗢𝗫𝗬 𝗥𝗘𝗡𝗔𝗠𝗘 𝗕𝗢𝗧</h1>
 
@@ -262,7 +262,7 @@ We stand on the shoulders of open-source giants:
 ---
 
 <div align="center">
-  <img src="https://graph.org/file/cfc7f63ca96a5ffaf6b69-4ab2f4172749ecfdce.jpg" alt="Roxy Rename Bot Banner" style="width: 100%; max-width: 500px;">
+  <img src="https://i.ibb.co/1fRkstMp/x.jpg" alt="Roxy Rename Bot Banner" style="width: 100%; max-width: 500px;">
   <p><b>If Roxy Rename Bot elevated your Telegram experience, please consider giving us a ⭐</b></p>
 </div>
 
